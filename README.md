@@ -23,6 +23,7 @@ Support in domain registries
 |[.sk](https://sk-nic.sk/wp-content/uploads/documents/DNSSEC_CDS_EN.pdf)|Yes|No|Yes|72 hours||No|No clear information about using TCP for bootstrapping|
 |[.uz](https://cctld.uz/dnssec/policy/?lang=eng)|Yes|No|Yes|2 hours|No|No|[Policy and Guidlines](https://cctld.uz/dnssec/policy/?lang=eng)|
 |.alt.za, .edu.za|Yes|No|Yes|72 hours|No|No||
+|[.tw, .台灣(.xn--kpry57d)](https://blog.twnic.tw/2025/07/04/31708/)|Yes|No|Yes|24 Hours|No|No||
 |[RIPE NCC](https://apps.db.ripe.net/docs/Database-Support/Configuring-Reverse-DNS/#automated-update-of-dnssec-delegations)|Yes|No|Yes|No||No||
 
 Support in domain registrars
